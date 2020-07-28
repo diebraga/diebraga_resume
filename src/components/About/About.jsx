@@ -48,6 +48,11 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
                 </p>
+                <br />
+                <strong style={{ fontSize: '15px' }}>
+                  "Where most people see a wheelchair,
+                  <br /> I see a way to reach my dreams"
+                </strong>
               </div>
             </Fade>
           </Col>
