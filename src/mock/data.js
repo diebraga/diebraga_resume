@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I moved back to Brazil in 2014, and started working in the Hospitality Industry and studying International Relations at Unifor, Fortaleza. In October of 2015 due to an unfortunate traffic accident that constricted me to a wheelchair, I had to stop my activities in order to recover.',
   paragraphThree:
-    'In 2017 I started my first Bootcamp, learning  Python and Javascript for games and interactive web pages. I then built my first mobile app using Ionic on my own initiative. In 2018 I finished my second Bootcamp, Full Stack Software Development, ReactJS, React Native and Node.js  at Rocketseat where even today I still follow their methods, courses, work and contribute to the community. In 2019 I received my Google IT Support Professional Certificate after completing 5 courses designed by Google and I keep working to develop and improve my skills. ',
+    'In 2017 I started my first Bootcamp, learning  Python and Javascript for games and interactive web pages. I then built my first mobile app using Ionic on my own initiative. In 2018 I finished my second Bootcamp, Full Stack Software Development, ReactJS, React Native and Node.js  at Rocketseat where even today I still follow their methods, courses, work and contribute to the community. In 2019 I`m still working hard to develop and improve my skills. ',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -77,7 +77,7 @@ export const projectsData = [
     title: 'Python',
     info:
       'Micro Services using Flask and Robust backend web applications with Django writting in python.',
-    info2: 'noSQL and SQL databases.',
+    info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
